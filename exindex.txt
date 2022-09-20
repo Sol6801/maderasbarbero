@@ -1,0 +1,322 @@
+
+<!--
+
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<link rel="icon" href="imagenes/icono2.gif" type="image/gif" sizes="16x16">
+</head>
+
+<body onload="MM_preloadImages('imagenes/inicio2.gif','imagenes/nosotros2.gif','imagenes/galeria2.gif','imagenes/contacto2.gif','imagenes/inicio2.png','imagenes/nosotros2.png','imagenes/contacto2.png','imagenes/galeria2.png')">
+
+  <div class="menu"><div class="botones"> <a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','imagenes/inicio2.png',1)"><img src="imagenes/inicio.png" name="Image3" width="225" height="46" border="0" id="Image3" /></a><a href="nosotros.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','imagenes/nosotros2.png',1)"><img src="imagenes/nosotros.png" name="Image4" width="225" height="46" border="0" id="Image4" /></a><a href="contacto.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','imagenes/contacto2.png',1)"><img src="imagenes/contacto.png" name="Image8" width="225" height="46" border="0" id="Image8" /></a><a href="galeria.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','imagenes/galeria2.png',1)"><img src="imagenes/galeria.png" name="Image5" width="225" height="46" border="0" id="Image5" /></a></div></div>
+
+
+<hr class="chr"/>
+
+    <hr width="100%" height color="#1abc9c" size="5" border-color="#1abc9c2" align="right"/> -->
+
+<!--
+    
+</div>
+<div class="contenedor">
+ <div class="imagen"><img src="imagenesnosotros/organismospublicos.jpg"   width="391" height="490"vspace="20"/></div>
+  <div class="texto">
+<h2 class="h2s">Metodología de Trabajo </h2><br/><p class="textos">
+    <em>
+      <strong>Mantenimiento Correctivo</strong><br/><br/>
+      Este procedimiento se llevará a cabo a partir de la aparición de averías, roturas o desperfectos  en las instalaciones existentes. <br/>
+      Si bien la reparación inmediata será la solución a llevar a cabo, este tipo de mantenimiento es solo un elemento dentro de la gestión, ya que sus consecuencias generan un freno en el proceso productivo, que a veces resulta impredecible en el tiempo.
+      <br/><br/>
+     <strong> Mantenimiento Planificado</strong><br/><br/>
+      Mediante un plan de trabajo diario, se desarrollarán tareas programadas por personal estable dentro del establecimiento.<br/>
+      Para las mismas, es de vital importancia considerar las condiciones ambientales y la rutina en el funcionamiento de las instalaciones, generando una funcionalidad de efecto "circular" en donde el inicio y la culminación forman el mismo punto.
+      </em></p>
+  </div> -->
+ <!--  <hr width="50%" height color="#1abc9c" size="5" border-color="#1abc9c2" align="right"/> -->
+  <!--<hr class="chr2" align="right"/>
+
+ </div>
+ <div class="contenedor">
+  <div class="box">
+      <p class="textos"><em>
+      <strong>Mantenimiento Proactivo</strong>
+      <br/><br/>
+      Este mantenimiento tiene como fundamento los principios de solidaridad, colaboración, iniciativa propia, sensibilización y trabajo en equipo, de modo tal que todos los involucrados directa o indirectamente en la gestión del mantenimiento deben conocer la problemática del mantenimiento, es decir, que tanto técnicos, profesionales y directivos deben estar concientes de las actividades que se llevan a acabo para desarrollar las labores de mantenimiento.<br/>
+      Cada individuo desde su cargo o función dentro de la organización, actuará de acuerdo a este cargo, asumiendo un rol en las operaciones de mantenimiento bajo la premisa de que se debe atender las prioridades del mantenimiento en forma oportuna y eficiente.
+    <br/>  El mantenimiento proactivo implica contar con una planificación de operaciones, la cual  estará incluida en el Plan Estratégico de la organización.
+      <br/><br/>
+      <strong>Mantenimiento Preventivo</strong>
+      <br/><br/>
+      El objetivo del mismo es evitar la aparición potencial de desperfectos mediante un control periódico y regular de los sistemas. <br/>
+      Se realiza no solo por el resultado de las inspecciones que efectivizará personal especializado, sino también por las conclusiones de los informes que entregará el personal de mantenimiento estable a los responsables del servicio. <br/>
+      Consideramos que las instalaciones de seguridad (humo, incendio, vigilancia), forman la base primordial en este tipo de mantenimiento, las cuales sugerimos atención especial mediante pruebas periódicas o simulacros por la empresa calificada para tal fin.<br/><br/>
+      
+      <strong>Mantenimiento Predictivo</strong>
+      <br/><br/>
+      Consiste en determinar la condición mecánica o eléctrica real de los equipos en funcionamiento permanente, basándose en las especificaciones y datos técnicos de los mismos. <br/>
+      La implementación de este método requiere de inversión y en contratación de personal calificado.<br/>
+      Tiene como objetivo disminuir la detención en el sistema operativo por mantenimientos correctivos y de esta manera minimizar los costos adicionales por mantenimiento y evitar limitar la capacidad productiva.<br/>
+      La medición de parámetros de operación (viscosidad, voltaje, potencia, presión, temperatura) forman parte de las técnicas a utilizar en este procedimiento.
+ </em></p>
+ </div>
+    <hr class="chr"/>
+ </div>
+<div class="contenedor">
+ <div class="texto"><h2 class="h2s">Generalidades </h2><br/><p class="textos">
+    <em>
+      Una vez superada  la organización básica es necesario establecer nuevos objetivos, elevando el mecanismo rotativo y sistemático, alcanzando una rueda de calidad que activamente irá  disminuyendo lo correctivo con la acción en lo preventivo y promoviendo fluidez en la planificación mediante la experiencia por la repetición.
+      
+      </em>
+      </p>
+  </div>
+   <div class="imagen"><img src="imagenesnosotros/organizacion2.png"   width="380" height="267" hspace="5" vspace="10"/></div>
+       
+<hr class="chr"/>
+
+      <div class="texto"><img src="imagenesnosotros/yacuzzi.jpg"   width="361" height="230" hspace="20" vspace="50"/><br/>
+      <img src="imagenesnosotros/saunas.jpg"   width="361" height="250" hspace="20" vspace="50"/>
+   </div>
+  <div class="imagen">
+<h2 class="h2s">Gestión permanente de nuevos servicios</h2>
+ <em>
+    <ul class="texto3">
+      <li>Solarium</li>
+     <li>Indoor-Sun  (Espacios destinados a camas solares y/o faciales).</li>
+      <li>Climatización de piscinas.</li>
+      <li>Estructuras de cierre (Jardines de invierno).</li>
+      <li>Presurización sanitaria.</li>
+      <li>Calefacción móvil.</li>
+      <li>Equipamientos gastronómicos. </li>
+      <li>Instalación de comedores.</li>
+      <li>Cabinas de Sauna. </li>
+      <li>Duchas escocesas. </li>
+      <li>Yacuzzis.</li>
+      <li>Quinchos de inviernos.</li>
+      <li>Parquerización.</li>
+      <li>Automatización de riegos.</li>
+      <li>Sectores exteriores especiales
+      (Parrillas, duchas  de paso, juegos, plazas blandas).</li>
+      <li>Ampliaciones, reacondicionamiento.</li>
+      <li>Sala de masajes.</li>
+      <li>Baños sauna. </li>
+      <li>Instalación de Camas hiperbáricas.</li>
+      <li>Cápsulas de ozono</li>
+      <li>Equipos ionizadores.</li>
+    </ul>
+    <h2 class="textos"> <em><strong>Auditorios </strong></em></h2>
+        <ul class="texto3">
+              De tipo:   
+<li>A.   Exposición/congresos</li>
+      <li>B.   Musicales, conciertos</li>
+    </ul></em>
+  </div>
+  
+</div> 
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+  <script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<link rel="icon" href="imagenes/icono2.gif" type="image/gif" sizes="16x16">
+</head>
+
+<body onload="MM_preloadImages('imagenes/inicio2.gif','imagenes/nosotros2.gif','imagenes/galeria2.gif','imagenes/contacto2.gif','imagenes/inicio2.png','imagenes/nosotros2.png','imagenes/contacto2.png','imagenes/galeria2.png')">
+
+  <div class="menu"><div class="botones"> <a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','imagenes/inicio2.png',1)"><img src="imagenes/inicio.png" name="Image3" width="225" height="46" border="0" id="Image3" /></a><a href="nosotros.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','imagenes/nosotros2.png',1)"><img src="imagenes/nosotros.png" name="Image4" width="225" height="46" border="0" id="Image4" /></a><a href="contacto.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','imagenes/contacto2.png',1)"><img src="imagenes/contacto.png" name="Image8" width="225" height="46" border="0" id="Image8" /></a><a href="galeria.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','imagenes/galeria2.png',1)"><img src="imagenes/galeria.png" name="Image5" width="225" height="46" border="0" id="Image5" /></a></div></div>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+
+
+<body onload="MM_preloadImages('imagenes/inicio2.gif','imagenes/nosotros2.gif','imagenes/galeria2.gif','imagenes/contacto2.gif','imagenes/inicio2.png','imagenes/nosotros2.png','imagenes/contacto2.png','imagenes/galeria2.png')">
+
+  <div class="menu"><div class="botones"> <a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','imagenes/inicio2.png',1)"><img src="imagenes/inicio.png" name="Image3" width="225" height="46" border="0" id="Image3" /></a><a href="nosotros.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','imagenes/nosotros2.png',1)"><img src="imagenes/nosotros.png" name="Image4" width="225" height="46" border="0" id="Image4" /></a><a href="contacto.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','imagenes/contacto2.png',1)"><img src="imagenes/contacto.png" name="Image8" width="225" height="46" border="0" id="Image8" /></a><a href="galeria.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','imagenes/galeria2.png',1)"><img src="imagenes/galeria.png" name="Image5" width="225" height="46" border="0" id="Image5" /></a></div></div>
+-->
+
+
+
+
+
+
+
+
+
+
+ <!--
+  <script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+<link rel="icon" href="imagenes/icono2.gif" type="image/gif" sizes="16x16">
+</head>
+
+<body onload="MM_preloadImages('imagenes/inicio2.gif','imagenes/nosotros2.gif','imagenes/galeria2.gif','imagenes/contacto2.gif','imagenes/inicio2.png','imagenes/nosotros2.png','imagenes/contacto2.png','imagenes/galeria2.png')">
+   <a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','imagenes/inicio2.png',1)">
+    <img src="imagenes/inicio.png" name="Image3" width="225" height="46" border="0" id="Image3" /></a> 
+<a href="nosotros.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','imagenes/nosotros2.png',1)"><img src="imagenes/nosotros.png" name="Image4" width="225" height="46" border="0" id="Image4" /></a><a href="contacto.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','imagenes/contacto2.png',1)"><img src="imagenes/contacto.png" name="Image8" width="225" height="46" border="0" id="Image8" /></a><a href="galeria.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','imagenes/galeria2.png',1)"><img src="imagenes/galeria.png" name="Image5" width="225" height="46" border="0" id="Image5" /></a>
+
+
+
+    -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <!--
+<p>Hover over any button and enjoy the magic.</p>
+<div class="buttons-coll">
+  <button class="custom-btn btn-1">Read More</button>
+  <button class="custom-btn btn-2">Read More</button>
+  <button class="custom-btn btn-3"><span>Read More</span></button>
+  <button class="custom-btn btn-4"><span>Read More</span></button>
+  <button class="custom-btn btn-5"><span>Read More</span></button>
+  <button class="custom-btn btn-6"><span>Read More</span></button>
+  <button class="custom-btn btn-7">Read More</button>
+  <button class="custom-btn btn-8">Read More</button>
+  <button class="custom-btn btn-9">Read More</button>
+  <button class="custom-btn btn-10">Read More</button>
+  <button class="custom-btn btn-11">Read More</button>
+  <button class="custom-btn btn-12">Read More</button>
+  <button class="custom-btn btn-13">Read More</button>
+  <button class="custom-btn btn-14">Read More</button>
+  <button class="custom-btn btn-15">Read More</button>
+</div>
+-->

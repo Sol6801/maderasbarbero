@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AutoPlay>true</AutoPlay>
+            <DescSliding>false</DescSliding>
+            <GalleryMultipleSuffix>1</GalleryMultipleSuffix>
+            <GalleryName>maderasbarbero</GalleryName>
+            <GalleryOptionID>1</GalleryOptionID>
+            <HoverStart>false</HoverStart>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEngine>jquery</ImageEngine>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink>true</ImageShrink>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>12. Noir</ImageTemplate>
+            <ImageTemplateName>Noir</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <OverlayColor>#bdbdbd</OverlayColor>
+            <PublishFileName>C:\Users\Sol\Desktop\Project\Padre\maderasbarbero\index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelPaths>false</RelPaths>
+            <ResizeSpeed>7</ResizeSpeed>
+            <RightClick>false</RightClick>
+            <SlideShow>true</SlideShow>
+            <SlideShowDelay>5</SlideShowDelay>
+            <ThumbColumns>0</ThumbColumns>
+            <ThumbFitImage>false</ThumbFitImage>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>120</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbTemplate>No Frame</ThumbTemplate>
+            <ThumbTemplateName>No Frame</ThumbTemplateName>
+            <ThumbWidth>160</ThumbWidth>
+        </Settings>
+        <Images>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC00779.JPG</url>
+                <title>DSC00779</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC00785.JPG</url>
+                <title>DSC00785</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC00786.JPG</url>
+                <title>DSC00786</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC00787.JPG</url>
+                <title>DSC00787</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC00788.JPG</url>
+                <title>DSC00788</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC00793.JPG</url>
+                <title>DSC00793</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC00794.JPG</url>
+                <title>DSC00794</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC00796.JPG</url>
+                <title>DSC00796</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC00972.JPG</url>
+                <title>DSC00972</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC02837.jpg</url>
+                <title>DSC02837</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC02838.jpg</url>
+                <title>DSC02838</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC_0154.jpg</url>
+                <title>DSC_0154</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC_0191.JPG</url>
+                <title>DSC_0191</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC_0198.JPG</url>
+                <title>DSC_0198</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC_0207.jpg</url>
+                <title>DSC_0207</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC_0208.jpg</url>
+                <title>DSC_0208</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC_0214.jpg</url>
+                <title>DSC_0214</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC_0219.jpg</url>
+                <title>DSC_0219</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC_0220.jpg</url>
+                <title>DSC_0220</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC_0223.JPG</url>
+                <title>DSC_0223</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC_0224.JPG</url>
+                <title>DSC_0224</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/DSC_0227.JPG</url>
+                <title>DSC_0227</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 14 002.jpg</url>
+                <title>FOTOS 14 002</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 14 017.jpg</url>
+                <title>FOTOS 14 017</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 14 035.jpg</url>
+                <title>FOTOS 14 035</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 14 198.jpg</url>
+                <title>FOTOS 14 198</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 14 207.jpg</url>
+                <title>FOTOS 14 207</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 14 519.jpg</url>
+                <title>FOTOS 14 519</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 17 171.jpg</url>
+                <title>FOTOS 17 171</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 17 182.jpg</url>
+                <title>FOTOS 17 182</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 17 183.jpg</url>
+                <title>FOTOS 17 183</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 17 189.jpg</url>
+                <title>FOTOS 17 189</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 17 190.jpg</url>
+                <title>FOTOS 17 190</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 17 192.jpg</url>
+                <title>FOTOS 17 192</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 17 193.jpg</url>
+                <title>FOTOS 17 193</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 17 194.jpg</url>
+                <title>FOTOS 17 194</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 17 195.jpg</url>
+                <title>FOTOS 17 195</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 18 046.jpg</url>
+                <title>FOTOS 18 046</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 19 067.jpg</url>
+                <title>FOTOS 19 067</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 19 081.jpg</url>
+                <title>FOTOS 19 081</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 19 082.jpg</url>
+                <title>FOTOS 19 082</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 19 175.jpg</url>
+                <title>FOTOS 19 175</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 19 208.jpg</url>
+                <title>FOTOS 19 208</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/FOTOS 22 036.jpg</url>
+                <title>FOTOS 22 036</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/IMG_20170304_111258712.jpg</url>
+                <title>IMG_20170304_111258712</title>
+            </Image>
+            <Image>
+                <url>C:/Users/Sol/Desktop/Project/Padre/maderasbarbero/fotos/Elejidas/IMG_20170304_111316794.jpg</url>
+                <title>IMG_20170304_111316794</title>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
