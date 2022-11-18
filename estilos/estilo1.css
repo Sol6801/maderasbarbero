@@ -77,6 +77,23 @@ body {
   /*background-color: #d8d8d8;*/
 
 }
+.htext {
+  padding-top: 15px;
+  overflow: hidden;
+  width: 95%;
+  margin: auto;
+  /*background-color: #d8d8d8;*/
+
+}
+.htextder {
+  padding-top: 15px;
+  overflow: hidden;
+  width: 95%;
+  margin: auto;
+  text-align: right;
+
+}
+
 .photo {
   padding-top: 15px;
   overflow: hidden;
@@ -125,6 +142,14 @@ body {
   font-size: 24px;
   color:#3c3c3c;
   text-align: left;
+  margin-bottom: 5px;
+  padding-left:10px;
+}
+.h2sr {
+  font-family: Alata, serif;
+  font-size: 24px;
+  color:#3c3c3c;
+  text-align: right;
   margin-bottom: 5px;
   padding-left:10px;
 }
