@@ -136,6 +136,14 @@ body {
   margin-bottom: 5px;
   padding-left:10px;
 }
+.h1sr {
+  font-family: Alata, serif;
+  font-size: 25px;
+  color: #3c3c3c;
+  text-align: right;
+  margin-bottom: 5px;
+  padding-left:10px;
+}
 .h2s {
   font-family: Alata, serif;
   font-size: 24px;
@@ -183,9 +191,12 @@ body {
   list-style-type: disc;
   font-family: "Noto Sans", serif;
   font-size: 17px;
-  
+  text-align: right;
+  float: right;/*puntos alineados a la derecha*/
+  direction: rtl;/*puntos a la derecha del texto*/
 
 }
+
 
 #pie {
   font-size: 13px;
