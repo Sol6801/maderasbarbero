@@ -1,0 +1,40 @@
+.text { 
+    margin: 1.3rem;
+    align-self: center;
+  }
+  
+  .images{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 10px;
+    padding: 0.3rem;
+  
+  }
+  .picture{
+    width: 100%;
+  }
+
+  @media (width > 770px) {
+
+    .text {  
+        margin: 1rem;
+      }
+      
+      .right{
+        text-align:right;
+        align-self: self-end;
+      }
+
+      .picture{
+        width: 49%;
+      }
+      .images{
+        align-self: center;
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: row;
+        gap: 1.5%;
+        padding: 1.5%;
+      }
+  }
